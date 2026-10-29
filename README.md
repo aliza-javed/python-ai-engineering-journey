@@ -86,21 +86,6 @@ Each section includes notes, code examples, and hands-on projects to help you le
 
 ---
 
-## 📸 Screenshots
-
-| AI ChatBot | VS Code Overview |
-| :---: | :---: |
-| ![Screenshot 1](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/1.png) | ![Screenshot 2](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/2.png) |
-
-| ATS Job Analyzer | AI/ML Model |
-| :---: | :---: |
-| ![Screenshot 3](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/3.png) | ![Screenshot 4](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/4.png) |
-
-| Enterprise AI Business Assistant | Dashboard |
-| :---: | :---: |
-| ![Screenshot 5](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/5.png) | ![Screenshot 6](01%20Python-Beginner-to-Advanced/01-Python-Introduction-and-Foundations/6.png) |
-
----
 
 ## 🛠️ Technical Stack
 
